@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Sundry TFC Addon",
+  "name": "Sundry",
+  "description": "First steps at TFC Addon",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "TFC community",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
